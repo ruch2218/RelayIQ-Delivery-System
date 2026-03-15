@@ -1,0 +1,6 @@
+Order_ID,Pickup_Agent,Route,Prep_Time_Min,Delivery_Time_Min
+3808,Agent1,C → B → A,12.8,21.8
+7422,Agent1,C → D,12.51,18.51
+7292,Agent1,C → D → E,18.78,27.78
+5817,Agent1,C → D → E → F,21.59,33.59
+6603,Agent1,C → B,15.8,21.8
